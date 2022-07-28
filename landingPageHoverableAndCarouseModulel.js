@@ -1,4 +1,4 @@
-class mainPage{
+class landingPageHoverableAndCarouseModulel{
 	constructor(data){
 			this.containerId=data.name;
 			this.imgLinks=data.links;
